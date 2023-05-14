@@ -201,3 +201,67 @@ http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF: -1 group-title="Ungrouped", CL | 13C
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25355
+#EXTINF: -1 group-title="Ungrouped", CL | 13i
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25356
+#EXTINF: -1 group-title="Ungrouped", CL | 24 Horas
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25357
+#EXTINF: -1 group-title="Ungrouped", CL | Canal 13
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25358
+#EXTINF: -1 group-title="Ungrouped", CL | CDO
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25372
+#EXTINF: -1 group-title="Ungrouped", CL | CDO Basico
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25354
+#EXTINF: -1 group-title="Ungrouped", CL | CDO Premium
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25371
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25376
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25375
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision FHD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25374
+#EXTINF: -1 group-title="Ungrouped", CL | Estadio TNT Sports
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25361
+#EXTINF: -1 group-title="Ungrouped", CL | Etc TV
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25378
+#EXTINF: -1 group-title="Ungrouped", CL | Etc Tv
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25390
+#EXTINF: -1 group-title="Ungrouped", CL | La Red
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25379
+#EXTINF: -1 group-title="Ungrouped", CL | La Red HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25380
+#EXTINF: -1 group-title="Ungrouped", CL | Mega
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25381
+#EXTINF: -1 group-title="Ungrouped", CL | MEGA HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25345
+#EXTINF: -1 group-title="Ungrouped", CL | Mega FHD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25384
+#EXTINF: -1 group-title="Ungrouped", CL | Mega Plus
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25346
+#EXTINF: -1 group-title="Ungrouped", CL | Rec TV
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25386
+#EXTINF: -1 group-title="Ungrouped", CL | Sporting HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25392
+#EXTINF: -1 group-title="Ungrouped", CL | Teletrak
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25347
+#EXTINF: -1 group-title="Ungrouped", CL | Teletrak HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25373
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25362
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS 2
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25340
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS SD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25366
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25363
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25369
+#EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS FHD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25365
+#EXTINF: -1 group-title="Ungrouped", CL | TV +
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25348
+#EXTINF: -1 group-title="Ungrouped", CL | TVN
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25387
+#EXTINF: -1 group-title="Ungrouped", CL | TVN HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25388
