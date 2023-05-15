@@ -21,5 +21,9 @@ http://ae2.aatvbox.club:8880/29us041902/wde332e23/58762
 http://ae2.aatvbox.club:8880/29us041902/wde332e23/58759
 #EXTINF:-1,LA162:Starz Kids & Family FHD
 http://ae2.aatvbox.club:8880/29us041902/wde332e23/58758
-#EXTINF: -1 group-title="Ungrouped", MX | Tru TVⓧ
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/61105
+#EXTINF: -1 group-title="Ungrouped", TruTV FHD
+http://bgp054.online:80/reestream-teste/reestream-teste/26810.ts
+#EXTINF: -1 group-title="Ungrouped", TruTV HD
+http://bgp054.online:80/reestream-teste/reestream-teste/51273.ts
+#EXTINF: -1 group-title="Ungrouped", Tru TV SD
+http://bgp054.online:80/reestream-teste/reestream-teste/51274.ts
