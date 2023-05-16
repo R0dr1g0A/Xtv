@@ -1,14 +1,10 @@
 #EXTM3U 
-#EXTINF:-1,INF| BABY FIRST
-http://premiumultra.xyz:8080/Fernado/Maya/12293
 #EXTINF:-1,INF| BabyFirst HD
 http://premiumultra.xyz:8080/Fernado/Maya/12294
 #EXTINF:-1,INF| Baby TV HQ
 http://premiumultra.xyz:8080/Fernado/Maya/12296
-#EXTINF:-1,Etc TV | CL
-http://premiumultra.xyz:8080/Fernado/Maya/118355
-#EXTINF:-1,NTV | CL
-http://premiumultra.xyz:8080/Fernado/Maya/118356
+#EXTINF: -1 group-title="Ungrouped", CL | Etc TV
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25378
 #EXTINF:-1,DIRECTO : BABY TV
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166502.ts
 #EXTINF:-1,DIRECTO : CARTOON NETWORK
@@ -19,6 +15,8 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323869.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/141634.ts
 #EXTINF:-1,DIRECTO : CARTOONITO HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323873.ts
+#EXTINF:-1,DIRECTO : TOONCAST
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/131731.ts
 #EXTINF:-1,DIRECTO : DISCOVERY KIDS FHD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146513.ts
 #EXTINF:-1,DIRECTO : DISCOVERY KIDS HD
@@ -41,7 +39,9 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323865.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166506.ts
 #EXTINF:-1,DIRECTO : TEENNICK
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166505.ts
-#EXTINF:-1,DIRECTO : TOONCAST
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/131731.ts
 #EXTINF:-1,DIRECTO : ZOOMOO HD
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/323867.ts
+#EXTINF:-1,MX: BITME
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/304621.ts
+#EXTINF:-1,DIRECTO : BOING
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/136181.ts
