@@ -1,4 +1,32 @@
 #EXTM3U 
+#EXTINF:-1,TNT Sports HD - OP 1
+http://premiumultra.xyz:8080/Fernado/Maya/164156
+#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 1
+http://premiumultra.xyz:8080/Fernado/Maya/164157
+#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 2
+http://premiumultra.xyz:8080/Fernado/Maya/164158
+#EXTINF:-1,TNT Sports HD - OP 2
+http://premiumultra.xyz:8080/Fernado/Maya/164159
+#EXTINF:-1,TNT Sports HD - OP 3
+http://premiumultra.xyz:8080/Fernado/Maya/164160
+#EXTINF:-1,TNT Sports HD - OP 4
+http://premiumultra.xyz:8080/Fernado/Maya/164161
+#EXTINF:-1,TNT Sports HD - OP 5
+http://premiumultra.xyz:8080/Fernado/Maya/164162
+#EXTINF:-1,TNT Sports HD - OP 6
+http://premiumultra.xyz:8080/Fernado/Maya/164163
+#EXTINF:-1,TNT Sports 2 HD - OP 1
+http://premiumultra.xyz:8080/Fernado/Maya/164164
+#EXTINF:-1,TNT Sports 2 HD - OP 2
+http://premiumultra.xyz:8080/Fernado/Maya/164165
+#EXTINF:-1,TNT Sports 2 HD - OP 3
+http://premiumultra.xyz:8080/Fernado/Maya/164166
+#EXTINF:-1,TNT sports 3 - OP 1
+http://premiumultra.xyz:8080/Fernado/Maya/164167
+#EXTINF:-1,TNT sports 3 - OP 2
+http://premiumultra.xyz:8080/Fernado/Maya/164168
+#EXTINF:-1,TNT sports 3 - OP 3
+http://premiumultra.xyz:8080/Fernado/Maya/164169
 #EXTINF:-1,DIRECTO : CDF CHILE BASICO
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/82453.ts
 #EXTINF:-1,DIRECTO : CDF PREMIUM  CHILE 
@@ -165,34 +193,6 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91443.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/107505.ts
 #EXTINF:-1,DIRECTO : WIN SPORTS PLUS HD2
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/91444.ts
-#EXTINF:-1,TNT Sports HD - OP 1
-http://premiumultra.xyz:8080/Fernado/Maya/164156
-#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 1
-http://premiumultra.xyz:8080/Fernado/Maya/164157
-#EXTINF:-1,TNT Sports Estadio HD - CL (EVENTOS) 2
-http://premiumultra.xyz:8080/Fernado/Maya/164158
-#EXTINF:-1,TNT Sports HD - OP 2
-http://premiumultra.xyz:8080/Fernado/Maya/164159
-#EXTINF:-1,TNT Sports HD - OP 3
-http://premiumultra.xyz:8080/Fernado/Maya/164160
-#EXTINF:-1,TNT Sports HD - OP 4
-http://premiumultra.xyz:8080/Fernado/Maya/164161
-#EXTINF:-1,TNT Sports HD - OP 5
-http://premiumultra.xyz:8080/Fernado/Maya/164162
-#EXTINF:-1,TNT Sports HD - OP 6
-http://premiumultra.xyz:8080/Fernado/Maya/164163
-#EXTINF:-1,TNT Sports 2 HD - OP 1
-http://premiumultra.xyz:8080/Fernado/Maya/164164
-#EXTINF:-1,TNT Sports 2 HD - OP 2
-http://premiumultra.xyz:8080/Fernado/Maya/164165
-#EXTINF:-1,TNT Sports 2 HD - OP 3
-http://premiumultra.xyz:8080/Fernado/Maya/164166
-#EXTINF:-1,TNT sports 3 - OP 1
-http://premiumultra.xyz:8080/Fernado/Maya/164167
-#EXTINF:-1,TNT sports 3 - OP 2
-http://premiumultra.xyz:8080/Fernado/Maya/164168
-#EXTINF:-1,TNT sports 3 - OP 3
-http://premiumultra.xyz:8080/Fernado/Maya/164169
 #EXTINF:-1,USA : WWE NETWORK
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139263.ts
 #EXTINF:-1,SPORT: NBA HD
