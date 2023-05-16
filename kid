@@ -4,7 +4,7 @@ http://premiumultra.xyz:8080/Fernado/Maya/12294
 #EXTINF:-1,INF| Baby TV HQ
 http://premiumultra.xyz:8080/Fernado/Maya/12296
 #EXTINF: -1 group-title="Ungrouped", CL | Etc TV
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25378
+http://premiumultra.xyz:8080/Fernado/Maya/39819
 #EXTINF:-1,DIRECTO : BABY TV
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166502.ts
 #EXTINF:-1,DIRECTO : CARTOON NETWORK
