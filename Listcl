@@ -1,34 +1,26 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", CL | 13C
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25355
-#EXTINF: -1 group-title="Ungrouped", CL | 13i
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25356
-#EXTINF: -1 group-title="Ungrouped", CL | 24 Horas
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25357
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25358
-#EXTINF: -1 group-title="Ungrouped", CL | CDO
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25372
-#EXTINF: -1 group-title="Ungrouped", CL | CDO Basico
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25354
-#EXTINF: -1 group-title="Ungrouped", CL | CDO Premium
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25371
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevision
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25376
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevision HD
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25375
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevision FHD
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25374
-#EXTINF: -1 group-title="Ungrouped", CL | Estadio TNT Sports
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25361
 #EXTINF: -1 group-title="Ungrouped", CL | Etc TV
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25378
 #EXTINF: -1 group-title="Ungrouped", CL | Etc Tv
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25390
+#EXTINF: -1 group-title="Ungrouped", CL | ETC TVⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92777
+#EXTINF: -1 group-title="Ungrouped", CL | TV +
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25348
 #EXTINF: -1 group-title="Ungrouped", CL | La Red
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25379
 #EXTINF: -1 group-title="Ungrouped", CL | La Red HD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25380
+#EXTINF: -1 group-title="Ungrouped", CL | TVN
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25387
+#EXTINF: -1 group-title="Ungrouped", CL | TVN HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25388
+#EXTINF: -1 group-title="Ungrouped", CL | 24 Horasⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60910
+#EXTINF: -1 group-title="Ungrouped", CL | 24 Horasⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92714
+#EXTINF: -1 group-title="Ungrouped", CL | 24 Horas
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25357
 #EXTINF: -1 group-title="Ungrouped", CL | Mega
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25381
 #EXTINF: -1 group-title="Ungrouped", CL | MEGA HD
@@ -37,8 +29,52 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/25345
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25384
 #EXTINF: -1 group-title="Ungrouped", CL | Mega Plus
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25346
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25376
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision HD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25375
+#EXTINF: -1 group-title="Ungrouped", CL | Chilevision FHD
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25374
+#EXTINF: -1 group-title="Ungrouped", CL | Canal 13
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25358
+#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92706
+#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92705
+#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92704
+#EXTINF: -1 group-title="Ungrouped", CL | 13C
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25355
+#EXTINF: -1 group-title="Ungrouped", CL | 13i
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25356
 #EXTINF: -1 group-title="Ungrouped", CL | Rec TV
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25386
+#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92724
+#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92756
+#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92720
+#EXTINF: -1 group-title="Ungrouped", CL | CNN Chileⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60888
+#EXTINF: -1 group-title="Ungrouped", CL | CNN Chileⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92775
+#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ FHD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60905
+#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92737
+#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ SD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92764
+#EXTINF: -1 group-title="Ungrouped", CL | Zona Latinaⓧ HD
+http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92769
+#EXTINF: -1 group-title="Ungrouped", CL | CDO
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25372
+#EXTINF: -1 group-title="Ungrouped", CL | CDO Basico
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25354
+#EXTINF: -1 group-title="Ungrouped", CL | CDO Premium
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25371
+#EXTINF: -1 group-title="Ungrouped", CL | Estadio TNT Sports
+http://sdmx.us:25461/legends/xHNG8HCVQBtC/25361
 #EXTINF: -1 group-title="Ungrouped", CL | Sporting HD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25392
 #EXTINF: -1 group-title="Ungrouped", CL | Teletrak
@@ -57,40 +93,6 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/25363
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25369
 #EXTINF: -1 group-title="Ungrouped", CL | TNT SPORTS FHD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/25365
-#EXTINF: -1 group-title="Ungrouped", CL | TV +
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25348
-#EXTINF: -1 group-title="Ungrouped", CL | TVN
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25387
-#EXTINF: -1 group-title="Ungrouped", CL | TVN HD
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/25388
-#EXTINF: -1 group-title="Ungrouped", CL | 24 Horasⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60910
-#EXTINF: -1 group-title="Ungrouped", CL | 24 Horasⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92714
-#EXTINF: -1 group-title="Ungrouped", CL | Alegria TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92751
-#EXTINF: -1 group-title="Ungrouped", CL | Campo Abierto TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92731
-#EXTINF: -1 group-title="Ungrouped", CL | Campus TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92726
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13cⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60774
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13iⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60775
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13iⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92707
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92706
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92705
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 13ⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92704
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 2 de San Antonioⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92735
-#EXTINF: -1 group-title="Ungrouped", CL | Canal 21ⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/12999
-#EXTINF: -1 group-title="Ungrouped", CL | Canal ISBⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92773
 #EXTINF: -1 group-title="Ungrouped", CL | CDF Basicoⓧ FHD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92778
 #EXTINF: -1 group-title="Ungrouped", CL | CDF Basicoⓧ HD
@@ -115,118 +117,26 @@ http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92713
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60893
 #EXTINF: -1 group-title="Ungrouped", CL | CDO Premiumⓧ SD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60912
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevisionⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92717
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevisionⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60887
-#EXTINF: -1 group-title="Ungrouped", CL | Chilevisionⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92715
-#EXTINF: -1 group-title="Ungrouped", CL | Chiloe Red 25ⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92742
-#EXTINF: -1 group-title="Ungrouped", CL | CNN Chileⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60888
-#EXTINF: -1 group-title="Ungrouped", CL | CNN Chileⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92775
 #EXTINF: -1 group-title="Ungrouped", CL | DirecTV Sports 1ⓧ FHD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92716
 #EXTINF: -1 group-title="Ungrouped", CL | DirecTV Sports 1ⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60885
 #EXTINF: -1 group-title="Ungrouped", CL | DirecTV Sports 2ⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60909
-#EXTINF: -1 group-title="Ungrouped", CL | Décima TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92741
-#EXTINF: -1 group-title="Ungrouped", CL | El Conquistador TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92770
 #EXTINF: -1 group-title="Ungrouped", CL | ESPNⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60906
 #EXTINF: -1 group-title="Ungrouped", CL | ESPNⓧ SD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92759
-#EXTINF: -1 group-title="Ungrouped", CL | ETC TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92777
 #EXTINF: -1 group-title="Ungrouped", CL | Fox Sports 1ⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60908
 #EXTINF: -1 group-title="Ungrouped", CL | Fox Sports 2ⓧ FHD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92700
 #EXTINF: -1 group-title="Ungrouped", CL | Fox Sports 2ⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60907
-#EXTINF: -1 group-title="Ungrouped", CL | France 24 en Españolⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92747
-#EXTINF: -1 group-title="Ungrouped", CL | Garage TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92748
-#EXTINF: -1 group-title="Ungrouped", CL | Gracia TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92772
-#EXTINF: -1 group-title="Ungrouped", CL | HiperTVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92728
-#EXTINF: -1 group-title="Ungrouped", CL | La Redⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60889
-#EXTINF: -1 group-title="Ungrouped", CL | La Redⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92718
-#EXTINF: -1 group-title="Ungrouped", CL | Maxima TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92753
-#EXTINF: -1 group-title="Ungrouped", CL | Megaⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60911
-#EXTINF: -1 group-title="Ungrouped", CL | Megaⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92719
-#EXTINF: -1 group-title="Ungrouped", CL | Megaⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60890
-#EXTINF: -1 group-title="Ungrouped", CL | Mi Radio TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92757
-#EXTINF: -1 group-title="Ungrouped", CL | MÁS+.TV Chileⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92721
-#EXTINF: -1 group-title="Ungrouped", CL | Natural TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92749
-#EXTINF: -1 group-title="Ungrouped", CL | Nuevo Tiempoⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92774
-#EXTINF: -1 group-title="Ungrouped", CL | Orocoipo FMⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92760
-#EXTINF: -1 group-title="Ungrouped", CL | Pinguino TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92745
-#EXTINF: -1 group-title="Ungrouped", CL | Pinguino TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92744
-#EXTINF: -1 group-title="Ungrouped", CL | Puerta Norte FMⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92733
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Camila TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92766
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Cosmos TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92763
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Favoritaⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92768
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Genial TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92767
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Hoyⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92765
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Polar TVⓧ
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92762
-#EXTINF: -1 group-title="Ungrouped", CL | Radio Sabor Tropicalⓧ
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92761
-#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92724
-#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92756
-#EXTINF: -1 group-title="Ungrouped", CL | REC TVⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92720
-#EXTINF: -1 group-title="Ungrouped", CL | Retro Plus 2ⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92736
-#EXTINF: -1 group-title="Ungrouped", CL | Retro Plusⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92758
-#EXTINF: -1 group-title="Ungrouped", CL | Rocco TV 4ⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92743
-#EXTINF: -1 group-title="Ungrouped", CL | Ruidos TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92752
-#EXTINF: -1 group-title="Ungrouped", CL | Sportingⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92776
-#EXTINF: -1 group-title="Ungrouped", CL | TecTVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92729
-#EXTINF: -1 group-title="Ungrouped", CL | Teleangol Radio TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92740
-#EXTINF: -1 group-title="Ungrouped", CL | Telesurⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92746
 #EXTINF: -1 group-title="Ungrouped", CL | Teletrakⓧ FHD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60891
 #EXTINF: -1 group-title="Ungrouped", CL | Teletrakⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92722
-#EXTINF: -1 group-title="Ungrouped", CL | TNE TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92771
 #EXTINF: -1 group-title="Ungrouped", CL | TNT Sports 2ⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/116863
 #EXTINF: -1 group-title="Ungrouped", CL | TNT Sports 2ⓧ SD
@@ -243,35 +153,3 @@ http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/116866
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/116861
 #EXTINF: -1 group-title="Ungrouped", CL | TNT Sportsⓧ HD
 http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/116860
-#EXTINF: -1 group-title="Ungrouped", CL | Tu Nueva Madrigalⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92755
-#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60905
-#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92737
-#EXTINF: -1 group-title="Ungrouped", CL | TV Chileⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92764
-#EXTINF: -1 group-title="Ungrouped", CL | TV Galicia Americaⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92739
-#EXTINF: -1 group-title="Ungrouped", CL | TV Saludⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92730
-#EXTINF: -1 group-title="Ungrouped", CL | TV5 Linaresⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92646
-#EXTINF: -1 group-title="Ungrouped", CL | TVNⓧ FHD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60904
-#EXTINF: -1 group-title="Ungrouped", CL | TVNⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92723
-#EXTINF: -1 group-title="Ungrouped", CL | TVNⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/60892
-#EXTINF: -1 group-title="Ungrouped", CL | UESTVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92727
-#EXTINF: -1 group-title="Ungrouped", CL | Umag TVⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92732
-#EXTINF: -1 group-title="Ungrouped", CL | VC Online ⓧ SD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92754
-#EXTINF: -1 group-title="Ungrouped", CL | VTV Valle de Aconcagua ⓧ
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/122007
-#EXTINF: -1 group-title="Ungrouped", CL | VTV Viña del Marⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92734
-#EXTINF: -1 group-title="Ungrouped", CL | Zona Latinaⓧ HD
-http://xplatinmedia.com:8080/@SltvYellow/IHM36pG7JmybF3mZpIawX4HeH9/92769
