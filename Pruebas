@@ -13,12 +13,6 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/4
 http://latamiptv.com:25461/Dante1096/websmarttv19/729
 #EXTINF:-1,Canal 13 (Grabado L/Angeles Time)
 http://latamiptv.com:25461/Dante1096/websmarttv19/2780
-#EXTINF:-1,Canal 13 (Grabado -7H Time)
-http://latamiptv.com:25461/Dante1096/websmarttv19/9205
-#EXTINF:-1,Canal 13 (Grabado Europa)
-http://latamiptv.com:25461/Dante1096/websmarttv19/2710
-#EXTINF:-1,Canal 13 (Grabado Oceania)
-http://latamiptv.com:25461/Dante1096/websmarttv19/1514
 #EXTINF:-1,13C HD
 http://latamiptv.com:25461/Dante1096/websmarttv19/796
 #EXTINF:-1,Chilevisiøn Vivo
@@ -29,24 +23,12 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/730
 http://latamiptv.com:25461/Dante1096/websmarttv19/9199
 #EXTINF:-1,Chilevisiøn (Grabado L/Angeles Time)
 http://latamiptv.com:25461/Dante1096/websmarttv19/2781
-#EXTINF:-1,Chilevision (Grabado -7H Time)
-http://latamiptv.com:25461/Dante1096/websmarttv19/9198
-#EXTINF:-1,Chilevisiøn (Grabado Europa)
-http://latamiptv.com:25461/Dante1096/websmarttv19/2719
-#EXTINF:-1,Chilevisiøn (Grabado Australia-Oceania)
-http://latamiptv.com:25461/Dante1096/websmarttv19/1517
 #EXTINF:-1,Mega Vivo
 http://latamiptv.com:25461/Dante1096/websmarttv19/2
 #EXTINF:-1,Mega Vivo (Pais Canada/EU/Australia)
 http://latamiptv.com:25461/Dante1096/websmarttv19/731
 #EXTINF:-1,Mega (Grabado L/Angeles Time)
 http://latamiptv.com:25461/Dante1096/websmarttv19/2782
-#EXTINF:-1,Mega (Grabado -7H Time)
-http://latamiptv.com:25461/Dante1096/websmarttv19/9204
-#EXTINF:-1,Mega (Grabado Europa)
-http://latamiptv.com:25461/Dante1096/websmarttv19/2720
-#EXTINF:-1,Mega (Grabado Oceania)
-http://latamiptv.com:25461/Dante1096/websmarttv19/1515
 #EXTINF:-1,Mega Plus
 http://latamiptv.com:25461/Dante1096/websmarttv19/358
 #EXTINF:-1,Mega 2 
@@ -57,14 +39,6 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/3
 http://latamiptv.com:25461/Dante1096/websmarttv19/732
 #EXTINF:-1,TVN (Grabado L/Angeles Time)
 http://latamiptv.com:25461/Dante1096/websmarttv19/2783
-#EXTINF:-1,TVN (Grabado -7H Time)
-http://latamiptv.com:25461/Dante1096/websmarttv19/9206
-#EXTINF:-1,TVN (Grabado Europa)
-http://latamiptv.com:25461/Dante1096/websmarttv19/2721
-#EXTINF:-1,TVN (Grabado Oceania)
-http://latamiptv.com:25461/Dante1096/websmarttv19/1516
-#EXTINF:-1,TVN Intl Chile
-http://latamiptv.com:25461/Dante1096/websmarttv19/229
 #EXTINF:-1,TV+ Vivo FHD
 http://latamiptv.com:25461/Dante1096/websmarttv19/5
 #EXTINF:-1,TV+ (Grabado L/Angeles Time)
