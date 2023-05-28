@@ -7,10 +7,6 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/1380
 http://latamiptv.com:25461/Dante1096/websmarttv19/10
 #EXTINF:-1,Mega Noticias
 http://latamiptv.com:25461/Dante1096/websmarttv19/6
-#EXTINF:-1,BioBio TV Noticias
-http://latamiptv.com:25461/Dante1096/websmarttv19/1271
-#EXTINF:-1,ADN TV Noticias.
-http://latamiptv.com:25461/Dante1096/websmarttv19/8
 #EXTINF:-1,Canal 13 Vivo
 http://latamiptv.com:25461/Dante1096/websmarttv19/4
 #EXTINF:-1,Canal 13 Vivo (Pais Canada/EU/Australia)
@@ -25,16 +21,6 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/2710
 http://latamiptv.com:25461/Dante1096/websmarttv19/1514
 #EXTINF:-1,13C HD
 http://latamiptv.com:25461/Dante1096/websmarttv19/796
-#EXTINF:-1,13.2 HD
-http://latamiptv.com:25461/Dante1096/websmarttv19/463
-#EXTINF:-1,13 Cultura
-http://latamiptv.com:25461/Dante1096/websmarttv19/9200
-#EXTINF:-1,13 Prime (new 2022)
-http://latamiptv.com:25461/Dante1096/websmarttv19/3593
-#EXTINF:-1,13 Teleseries (new 2022)
-http://latamiptv.com:25461/Dante1096/websmarttv19/3594
-#EXTINF:-1,13 Entretención
-http://latamiptv.com:25461/Dante1096/websmarttv19/3619
 #EXTINF:-1,Chilevisiøn Vivo
 http://latamiptv.com:25461/Dante1096/websmarttv19/1
 #EXTINF:-1,Chilevisiøn Vivo (Pais Canada/EU/Australia)
@@ -49,8 +35,6 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/9198
 http://latamiptv.com:25461/Dante1096/websmarttv19/2719
 #EXTINF:-1,Chilevisiøn (Grabado Australia-Oceania)
 http://latamiptv.com:25461/Dante1096/websmarttv19/1517
-#EXTINF:-1,Universidad de Chile TV
-http://latamiptv.com:25461/Dante1096/websmarttv19/9192
 #EXTINF:-1,Mega Vivo
 http://latamiptv.com:25461/Dante1096/websmarttv19/2
 #EXTINF:-1,Mega Vivo (Pais Canada/EU/Australia)
@@ -101,14 +85,8 @@ http://latamiptv.com:25461/Dante1096/websmarttv19/3540
 http://latamiptv.com:25461/Dante1096/websmarttv19/3646
 #EXTINF:-1,Zona Latina ip
 http://latamiptv.com:25461/Dante1096/websmarttv19/3541
-#EXTINF:-1,Wapp TV
-http://latamiptv.com:25461/Dante1096/websmarttv19/2764
 #EXTINF:-1,NTV EducaChile
 http://latamiptv.com:25461/Dante1096/websmarttv19/1507
-#EXTINF:-1,STGO.TV
-http://latamiptv.com:25461/Dante1096/websmarttv19/3236
-#EXTINF:-1,ETC HD 
-http://latamiptv.com:25461/Dante1096/websmarttv19/1389
 #EXTINF:-1,Camara de Diputados | SD
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 #EXTINF:-1,TV Senado | HD Chile
