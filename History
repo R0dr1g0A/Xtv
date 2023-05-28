@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,| MX| HISTORY LAT [HD]
+#EXTVLCOPT:network-caching=1000
+http://magicoiptv.org:8080/axl/axl/117670
