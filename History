@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:0,| MX| HISTORY LAT [HD]
-#EXTVLCOPT:network-caching=1000
-http://magicoiptv.org:8080/axl/axl/117670
+#EXTINF:-1,CINE| CINECANAL HD
+http://latamiptv.com:25461/Dante1096/websmarttv19/2804
 #EXTINF:-1,Star Channel HD 1080P
 http://latamiptv.com:25461/Dante1096/websmarttv19/3262
+#EXTINF:-1,CINE| GOLDEN PLUS HD
+http://latamiptv.com:25461/Dante1096/websmarttv19/2833
+#EXTINF:-1,GOLDEN HD
+http://latamiptv.com:25461/Dante1096/websmarttv19/2818
