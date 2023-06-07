@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="GT: Canal 7" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4b32bf56b408d29ea60b2473879c9369.png" group-title="Guatemala",GT: Canal 7
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/169021
+#EXTINF:-1 tvg-id="" tvg-name="GT: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/62d445a2fd50a1160093cd10232b308b.jpeg" group-title="Guatemala",GT: Canal 11
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/169190
