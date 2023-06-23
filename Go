@@ -1,0 +1,982 @@
+#EXTM3U
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
+#EXTINF:0,CDF HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/2
+#EXTINF:0,CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3
+#EXTINF:0,24 horas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4
+#EXTINF:0,La red
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/5
+#EXTINF:0,tvn
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/6
+#EXTINF:0,Mega
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/7
+#EXTINF:0,CHV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/8
+#EXTINF:0,Canal 13
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/9
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/10
+#EXTINF:0,NICK JR
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/11
+#EXTINF:0,DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
+#EXTINF:0,DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/13
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/14
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/19
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/20
+#EXTINF:0,ESPN 2 CO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/22
+#EXTINF:0,Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
+#EXTINF:0,Win
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/25
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/26
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/27
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/28
+#EXTINF:0,Star Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/31
+#EXTINF:0,Warner
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/32
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/33
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/34
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/35
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/36
+#EXTINF:0,I-sat
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/37
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
+#EXTINF:0,Home and Health
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
+#EXTINF:0,Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/45
+#EXTINF:0,CNN espanol
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
+#EXTINF:0,Canal de Las estrellas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/47
+#EXTINF:0,E Entertainment
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
+#EXTINF:0,ViaX
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
+#EXTINF:0,Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+#EXTINF:0,Canal Caracol
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/53
+#EXTINF:0,Canal RCN
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
+#EXTINF:0,Canal Del Congreso CO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/55
+#EXTINF:0,Canal Capital
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/56
+#EXTINF:0,City TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/57
+#EXTINF:0,Senal Colombiana
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/59
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
+#EXTINF:0,Telepacifico
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/61
+#EXTINF:0,Teleislas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/62
+#EXTINF:0,Teleantioquia
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/63
+#EXTINF:0,Telecafe
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/64
+#EXTINF:0,Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/66
+#EXTINF:0,teletrak
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/67
+#EXTINF:0,13 C
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/148
+#EXTINF:0,Rec TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/149
+#EXTINF:0,TV+
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
+#EXTINF:0,TNT Sports 3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
+#EXTINF:0,Fox Sports 1
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
+#EXTINF:0,CDO basico
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/154
+#EXTINF:0,CDO premium
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/155
+#EXTINF:0,ANTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/156
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/157
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/158
+#EXTINF:0,CMD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/159
+#EXTINF:0,Canal N
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/160
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/161
+#EXTINF:0,EWTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/162
+#EXTINF:0,ECDF El canal del futbol
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/164
+#EXTINF:0,Gol Peru
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/172
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/174
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/175
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
+#EXTINF:0,HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
+#EXTINF:0,Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/180
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/181
+#EXTINF:0,Meridiano
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/182
+#EXTINF:0,Panamericana
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/184
+#EXTINF:0,Paramount
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
+#EXTINF:0,Peru Magico
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
+#EXTINF:0,RPP
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/188
+#EXTINF:0,SYFY
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/189
+#EXTINF:0,Tnt Series
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/191
+#EXTINF:0,TV EPACO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/192
+#EXTINF:0,TV Peru
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/193
+#EXTINF:0,Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/194
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
+#EXTINF:0,TYC Sports
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
+#EXTINF:0,VALE TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/197
+#EXTINF:0,VenevisionPlus
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/198
+#EXTINF:0,Venezolana de TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/199
+#EXTINF:0,Vive
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/200
+#EXTINF:0,WOBI
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/201
+#EXTINF:0,ETC TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/202
+#EXTINF:0,movistar deportes
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/203
+#EXTINF:0,ESPN op2
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/204
+#EXTINF:0,America Television
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
+#EXTINF:0,Latina
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/206
+#EXTINF:0,Fox sports
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/207
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/208
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/209
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+#EXTINF:0,CHV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/212
+#EXTINF:0,CNN Chile HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/213
+#EXTINF:0,Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/214
+#EXTINF:0,Canal 24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/215
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/216
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/217
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/223
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
+#EXTINF:0,Disney HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
+#EXTINF:0,ESPN EXTRA HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
+#EXTINF:0,FOX Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/235
+#EXTINF:0,Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+#EXTINF:0,Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#EXTINF:0,Golden HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/238
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
+#EXTINF:0,History 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
+#EXTINF:0,La Red HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/243
+#EXTINF:0,MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/244
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/249
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/257
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/258
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
+#EXTINF:0,Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/260
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
+#EXTINF:0,TNT SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
+#EXTINF:0,TRUTV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+#EXTINF:0,TVN HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/265
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/266
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/267
+#EXTINF:0,A&E Mundo
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/268
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/269
+#EXTINF:0,HBO plus
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/270
+#EXTINF:0,HBO Xtream
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/272
+#EXTINF:0,TV+ HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/273
+#EXTINF:0,NTV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/274
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
+#EXTINF:0,DTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3925
+#EXTINF:0,Win Sports +
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3926
+#EXTINF:0,CONGRESO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3927
+#EXTINF:0,ET Canal El Tiempo
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3928
+#EXTINF:0,JUSTICIA TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3929
+#EXTINF:0,MOVISTAR PLUS
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
+#EXTINF:0,Venevision
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3931
+#EXTINF:0,Canal Institucional
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3932
+#EXTINF:0,TV PERU 7.3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3933
+#EXTINF:0,De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3934
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3935
+#EXTINF:0,Gol TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3936
+#EXTINF:0,HBO POP
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3937
+#EXTINF:0,HBO Family hd
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
+#EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4185
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4186
+#EXTINF:0,CLOVER HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4187
+#EXTINF:0,Kanal D Drama HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4188
+#EXTINF:0,Love Nature HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
+#EXTINF:0,EVENTOS
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4195
+#EXTINF:0,NICK HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4226
+#EXTINF:0,Canal 13 i
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4239
+#EXTINF:0,Canal 13 Cultura
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4240
+#EXTINF:0,Canal 13 Entretencion
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4241
+#EXTINF:0,Canal 13 Prime
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4242
+#EXTINF:0,Canal 13 Teleseries
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4243
+#EXTINF:0,EnerGeek
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4244
+#EXTINF:0,EnerGeek Fanpop
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4245
+#EXTINF:0,EnerGeek Wowly
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4246
+#EXTINF:0,A3series HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4247
+#EXTINF:0,Universal Cinema SD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4248
+#EXTINF:0,Universal Comedy SD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4249
+#EXTINF:0,Universal Premiere SD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4250
+#EXTINF:0,Via X Esports
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4251
+#EXTINF:0,ATRES SERIES
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4252
+#EXTINF:0,Antena 3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4253
+#EXTINF:0,BBC World
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4254
+#EXTINF:0,CNN Internacional
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4255
+#EXTINF:0,CNT SPORTS SD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4256
+#EXTINF:0,CableNoticias
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4257
+#EXTINF:0,Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4258
+#EXTINF:0,Canal 13 (CO)
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4259
+#EXTINF:0,Canal I
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4260
+#EXTINF:0,Clover
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4261
+#EXTINF:0,Conciencia
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4262
+#EXTINF:0,DW (Deutsch +)
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4263
+#EXTINF:0,Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4264
+#EXTINF:0,ESPN op3
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4265
+#EXTINF:0,ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
+#EXTINF:0,Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4267
+#EXTINF:0,Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4268
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4269
+#EXTINF:0,El Trece
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4270
+#EXTINF:0,Epoca
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4271
+#EXTINF:0,Eurochannel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4272
+#EXTINF:0,FANB
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4273
+#EXTINF:0,Fox News
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4274
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4275
+#EXTINF:0,GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4276
+#EXTINF:0,Gamavision
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4277
+#EXTINF:0,Glitz
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4278
+#EXTINF:0,Globovision
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4279
+#EXTINF:0,HBO SD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
+#EXTINF:0,HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4281
+#EXTINF:0,Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4282
+#EXTINF:0,La Redonda TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4283
+#EXTINF:0,Lolly Kids
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4284
+#EXTINF:0,Love Nature
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4285
+#EXTINF:0,Mas Chic
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4286
+#EXTINF:0,NTN 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4287
+#EXTINF:0,Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4288
+#EXTINF:0,Oromar TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4289
+#EXTINF:0,PLUSTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4290
+#EXTINF:0,RAI
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4291
+#EXTINF:0,RTS
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4292
+#EXTINF:0,RTU
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4293
+#EXTINF:0,Sun Channel
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4294
+#EXTINF:0,TLT
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4295
+#EXTINF:0,TV Diputados
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4296
+#EXTINF:0,TV Familia
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4297
+#EXTINF:0,TV Senado
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4298
+#EXTINF:0,TVES
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4299
+#EXTINF:0,Teen Nick
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4300
+#EXTINF:0,Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4301
+#EXTINF:0,Telecanal
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4302
+#EXTINF:0,Telefe
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4303
+#EXTINF:0,Telesur
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4304
+#EXTINF:0,Televicentro
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4305
+#EXTINF:0,Tru TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4306
+#EXTINF:0,UCL
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4307
+#EXTINF:0,Wuan+
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4308
+#EXTINF:0,Win Sports+
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4309
+#EXTINF:0,ATRES SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4310
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4311
+#EXTINF:0,Canal Institucional HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4312
+#EXTINF:0,Caracol HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4313
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:0,Gol Peru HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
+#EXTINF:0,Gol TV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4316
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
+#EXTINF:0,Hola TV HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4318
+#EXTINF:0,Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
+#EXTINF:0,Latina HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4320
+#EXTINF:0,MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
+#EXTINF:0,Movistar Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4322
+#EXTINF:0,NICK MUSIC
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4323
+#EXTINF:0,RCN HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4325
+#EXTINF:0,Senal Colombiana HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4326
+#EXTINF:0,Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4327
+#EXTINF:0,TBS Very Funny HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4328
+#EXTINF:0,Telehit HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4329
+#EXTINF:0,Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4330
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4331
+#EXTINF:0,America TV PY
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4332
+#EXTINF:0,Baby First
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4333
+#EXTINF:0,C9N
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4334
+#EXTINF:0,Canal Claro
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4335
+#EXTINF:0,Canal TRO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4336
+#EXTINF:0,Claro Cinema
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4337
+#EXTINF:0,Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4338
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4339
+#EXTINF:0,Cristovision
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4340
+#EXTINF:0,ESPN CO
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4341
+#EXTINF:0,Enlace
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4342
+#EXTINF:0,Esne TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4343
+#EXTINF:0,Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4344
+#EXTINF:0,Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4345
+#EXTINF:0,Gama TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4346
+#EXTINF:0,Golbo Internacional
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4347
+#EXTINF:0,HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4350
+#EXTINF:0,La Tele
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4351
+#EXTINF:0,Movistar TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4352
+#EXTINF:0,NPY
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4353
+#EXTINF:0,Paravision
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4354
+#EXTINF:0,Paraguay TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4355
+#EXTINF:0,RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4357
+#EXTINF:0,SNT
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4358
+#EXTINF:0,SUR TV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4359
+#EXTINF:0,Sin Limites
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4361
+#EXTINF:0,TC Television
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4362
+#EXTINF:0,TV Camara
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4363
+#EXTINF:0,telecaribe
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4364
+#EXTINF:0,telefuturo
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4365
+#EXTINF:0,televen
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4366
+#EXTINF:0,Unicanal
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4367
+#EXTINF:0,Willax
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
+#EXTINF:0,Playboy
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/276
+#EXTINF:0,Venus
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/577
+#EXTINF:0,Sextream
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/578
+#EXTINF:0,Playboy HD
+#EXTVLCOPT:network-caching=1000
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4324
