@@ -1,64 +1,205 @@
-#EXTM3U
-#EXTINF:0,CHL: TVN HD
+#EXTM3U 
+#EXTINF:0,SUR: A&E
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3306
-#EXTINF:0,CHL: TVN HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298145
+#EXTINF:0,SUR: AMC
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3307
-#EXTINF:0,CHL: TNT SPORTS FHD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298147
+#EXTINF:0,SUR: AXN
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3528
-#EXTINF:0,CHL: TNT SPORTS 2 UHD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49443
+#EXTINF:0,SUR: Boing
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3530
-#EXTINF:0,CHL: TELETRAK HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298150
+#EXTINF:0,SUR: Cartoon Network
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3531
-#EXTINF:0,CHL: MEGA HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49445
+#EXTINF:0,SUR: DirecTV Sports
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3310
-#EXTINF:0,CHL: MEGA
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298365
+#EXTINF:0,SUR: DirecTV Sports 2
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3308
-#EXTINF:0,CHL: LA RED
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/76232
+#EXTINF:0,SUR: Discovery Kids
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3529
-#EXTINF:0,CHL: FOX SPORTS 2 HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49453
+#EXTINF:0,SUR: ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3313
-#EXTINF:0,CHL: FOX SPORTS 1 HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8689
+#EXTINF:0,SUR: ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3312
-#EXTINF:0,CHL: ESPN HD (CHILE)
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298157
+#EXTINF:0,SUR: ESPN Deportes
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3527
-#EXTINF:0,CHL: ESPN HD
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281418
+#EXTINF:0,SUR: FOX Sports
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3526
-#EXTINF:0,CHL: DIRECTV SPORTS CHILE
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/187032
+#EXTINF:0,SUR: FOX Sports 1
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3309
-#EXTINF:0,CHL: CNN ESPAÑOL CHILE
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8678
+#EXTINF:0,SUR: FOX Sports 3
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3525
-#EXTINF:0,CHL: CNN CHILE
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8740
+#EXTINF:0,SUR: FX
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3316
-#EXTINF:0,CHL: CANAL DEL SENADO
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49462
+#EXTINF:0,SUR: HBO 2
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3560
-#EXTINF:0,CHL: CANAL 13 CHILE
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49465
+#EXTINF:0,SUR: HBO+
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3315
-#EXTINF:0,CHL: 24 HORAS CL
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49466
+#EXTINF:0,SUR: Space
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3533
-#EXTINF:0,CHL: 24 HORAS
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49477
+#EXTINF:0,SUR: Studio Universal
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/3532
-#EXTINF:0,SUR | ETC TV CHILE
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298930
+#EXTINF:0,SUR: Suryoyo TV
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/4822
-#EXTINF:0,SUR | CHV
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/276944
+#EXTINF:0,SUR: TCM
 #EXTVLCOPT:network-caching=1000
-http://31.42.185.216:8000/pkc25/2Mh64430WP/4852
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49475
+#EXTINF:0,SUR: Telefe
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/76277
+#EXTINF:0,SUR: TNT
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/49481
+#EXTINF:0,SUR: TNT Series
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298931
+#EXTINF:0,SUR: Universal Channel
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298932
+#EXTINF:0,SUR: Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298933
+#EXTINF:0,CL: 13C
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8956
+#EXTINF:0,CL: 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298601
+#EXTINF:0,CL: Camara de Diputados
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/169030
+#EXTINF:0,CL: Campo Abierto TV
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286259
+#EXTINF:0,CL: Canal 13
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8955
+#EXTINF:0,CL: CDO Premium
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8963
+#EXTINF:0,CL: ChileVision
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8966
+#EXTINF:0,CL: Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3008
+#EXTINF:0,CL: CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/76353
+#EXTINF:0,CL: DirecTV Sports
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/290379
+#EXTINF:0,CL: DirecTV Sports 2
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/290380
+#EXTINF:0,CL: ESPN
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295637
+#EXTINF:0,CL: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298602
+#EXTINF:0,CL: ETC
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8969
+#EXTINF:0,CL: FOX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/169069
+#EXTINF:0,CL: FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/38466
+#EXTINF:0,CL: HiperTV
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286264
+#EXTINF:0,CL: ITV Patagonia
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/297231
+#EXTINF:0,CL: La Red
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8970
+#EXTINF:0,CL: Maxima
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286265
+#EXTINF:0,CL: Mega
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8971
+#EXTINF:0,CL: Pauta
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286267
+#EXTINF:0,CL: Rec TV
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8975
+#EXTINF:0,CL: Retro Plus
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286286
+#EXTINF:0,CL: Retro Plus 2
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286284
+#EXTINF:0,CL: Retro Plus Movies
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286285
+#EXTINF:0,CL: Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298169
+#EXTINF:0,CL: Tele 13
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298604
+#EXTINF:0,CL: Teletrak
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8965
+#EXTINF:0,CL: TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8959
+#EXTINF:0,CL: TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/279612
+#EXTINF:0,CL: TNT Sports 3
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/266775
+#EXTINF:0,CL: TNT Sports Estadio
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298605
+#EXTINF:0,CL: TV Chile
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8978
+#EXTINF:0,CL: TV+
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/76339
+#EXTINF:0,CL: TV5 Linares
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286279
+#EXTINF:0,CL: TVN
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8976
+#EXTINF:0,CL: Universidad Autonoma
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286282
+#EXTINF:0,CL: VC Online
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/169033
+#EXTINF:0,CL: Via X
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/295638
+#EXTINF:0,CL: VTV Valle de Aconcagua
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/286283
+#EXTINF:0,CL: Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/148631
