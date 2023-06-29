@@ -968,15 +968,3 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
 #EXTINF:0,NTV
 #EXTVLCOPT:network-caching=1000
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
-#EXTINF:0,Playboy
-#EXTVLCOPT:network-caching=1000
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/276
-#EXTINF:0,Venus
-#EXTVLCOPT:network-caching=1000
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/577
-#EXTINF:0,Sextream
-#EXTVLCOPT:network-caching=1000
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/578
-#EXTINF:0,Playboy HD
-#EXTVLCOPT:network-caching=1000
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4324
