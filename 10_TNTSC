@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:0,TNT Sports FHD (CL)
-http://hidra.live:80/J9okU7pEQV/w0mRirN25uBnO063/34676
+#EXTINF:-1 tvg-id="" tvg-name=" TNT ⚽️  SOLO EVENTO" tvg-logo="http://th4.online:2095/images/18857ec397656f4c366c9f6ffc757296.jpg" group-title="⭕ DEPORTE CHILE ", TNT ⚽️  SOLO EVENTO
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1231
+#EXTINF:-1 tvg-id="" tvg-name=".TNT  SD⚽" tvg-logo="http://th4.online:2095/images/18857ec397656f4c366c9f6ffc757296.jpg" group-title="⭕ DEPORTE CHILE ",.TNT  SD⚽
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1233
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS SD " tvg-logo="http://th4.online:2095/images/8364b1674887d85fecb46554db3e8fcc.jpg" group-title="⭕ DEPORTE CHILE ",TNT SPORTS SD 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1229
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="http://th4.online:2095/images/8364b1674887d85fecb46554db3e8fcc.jpg" group-title="⭕ DEPORTE CHILE ",TNT SPORTS HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1230
+#EXTINF:-1 tvg-id="" tvg-name=" TNT SPORTS 2 SD" tvg-logo="http://th4.online:2095/images/5ebebd5d83f4d9a17b166b7afb701170.jpg" group-title="⭕ DEPORTE CHILE ", TNT SPORTS 2 SD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/86176
+#EXTINF:-1 tvg-id="" tvg-name=" TNT SPORTS 2 " tvg-logo="http://th4.online:2095/images/5ebebd5d83f4d9a17b166b7afb701170.jpg" group-title="⭕ DEPORTE CHILE ", TNT SPORTS 2 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/86357
