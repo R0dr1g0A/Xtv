@@ -1,11 +1,61 @@
 #EXTM3U 
-#EXTINF:0,01 | TUDN MX #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/153955
-#EXTINF:0,02 | CARTOON NETWORK #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/150433
-#EXTINF:0,29 | BABY FIRST
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/150473
-#EXTINF:0,09 | ETC | SD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/152306
+#EXTM3U
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/152513
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA FHD" tvg-logo="http://th4.online:2095/images/d854d8878bfae8d2b66295bc0dff6f56.png" group-title="⭕ CHILE ",CL | MEGA FHD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1219
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD ec" tvg-logo="http://th4.online:2095/images/d854d8878bfae8d2b66295bc0dff6f56.png" group-title="⭕ CHILE ",CL | MEGA HD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1220
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA SD ec" tvg-logo="http://th4.online:2095/images/d854d8878bfae8d2b66295bc0dff6f56.png" group-title="⭕ CHILE ",CL | MEGA SD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/118318
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 2 HD" tvg-logo="http://th4.online:2095/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="⭕ CHILE ",MEGA 2 HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/152516
+#EXTINF:-1 tvg-id="" tvg-name="MEGA NOTICIAS SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="⭕ CHILE ",MEGA NOTICIAS SD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/152517
+#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 FHD ec" tvg-logo="http://th4.online:2095/images/b3d6640a3d6078c08911eb715e88fdf7.png" group-title="⭕ CHILE ",CL | CANAL 13 FHD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1213
+#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 HD ec" tvg-logo="http://th4.online:2095/images/b3d6640a3d6078c08911eb715e88fdf7.png" group-title="⭕ CHILE ",CL | CANAL 13 HD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1214
+#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 SDcp" tvg-logo="http://th4.online:2095/images/b3d6640a3d6078c08911eb715e88fdf7.png" group-title="⭕ CHILE ",CL | CANAL 13 SDcp
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1212
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13 C" tvg-logo="http://th4.online:2095/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="⭕ CHILE ",CL | 13 C
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/138774
+#EXTINF:-1 tvg-id="" tvg-name="C.L CHILEVISION FHD ec" tvg-logo="http://th4.online:2095/images/70efdf2ec9b086079795c442636b55fb.png" group-title="⭕ CHILE ",C.L CHILEVISION FHD ec
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/104303
+#EXTINF:-1 tvg-id="" tvg-name="C.L  CHILEVISION  HD " tvg-logo="http://th4.online:2095/images/70efdf2ec9b086079795c442636b55fb.png" group-title="⭕ CHILE ",C.L  CHILEVISION  HD 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/104304
+#EXTINF:-1 tvg-id="" tvg-name="C.L  CHILEVISION CONTIGO " tvg-logo="http://th4.online:2095/images/70efdf2ec9b086079795c442636b55fb.png" group-title="⭕ CHILE ",C.L  CHILEVISION CONTIGO 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/104305
+#EXTINF:-1 tvg-id="" tvg-name="CL | TVN FHD" tvg-logo="http://th4.online:2095/images/8e296a067a37563370ded05f5a3bf3ec.png" group-title="⭕ CHILE ",CL | TVN FHD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1222
+#EXTINF:-1 tvg-id="" tvg-name="CL | TVN HD" tvg-logo="http://th4.online:2095/images/8e296a067a37563370ded05f5a3bf3ec.png" group-title="⭕ CHILE ",CL | TVN HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1223
+#EXTINF:-1 tvg-id="" tvg-name="CL | TVN SD" tvg-logo="http://th4.online:2095/images/8e296a067a37563370ded05f5a3bf3ec.png" group-title="⭕ CHILE ",CL | TVN SD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1221
+#EXTINF:-1 tvg-id="" tvg-name="CL | LA RED TV HD" tvg-logo="http://th4.online:2095/images/37693cfc748049e45d87b8c7d8b9aacd.png" group-title="⭕ CHILE ",CL | LA RED TV HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1228
+#EXTINF:-1 tvg-id="" tvg-name="CL | REC TV  SD" tvg-logo="http://th4.online:2095/images/fc3efd7f6452c16f59100bb7ea00ec86.png" group-title="⭕ CHILE ",CL | REC TV  SD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1215
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 24 NOTICIAS " tvg-logo="http://th4.online:2095/images/9bf31c7ff062936a96d3c8bd1f8f2ff3.png" group-title="⭕ CHILE ",CHILE | 24 NOTICIAS 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/133666
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV + HD" tvg-logo="http://th4.online:2095/images/1ff1de774005f8da13f42943881c655f.png" group-title="⭕ CHILE ",CL | TV + HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1224
+#EXTINF:-1 tvg-id="" tvg-name="CL | CAMARA DE DIPUTADOS HD" tvg-logo="http://th4.online:2095/images/1f0e3dad99908345f7439f8ffabdffc4.png" group-title="⭕ CHILE ",CL | CAMARA DE DIPUTADOS HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1242
+#EXTINF:-1 tvg-id="" tvg-name="CL | ETC TV" tvg-logo="http://th4.online:2095/images/b6d767d2f8ed5d21a44b0e5886680cb9.png" group-title="⭕ CHILE ",CL | ETC TV
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1238
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV EDUCA HD " tvg-logo="http://th4.online:2095/images/98f13708210194c475687be6106a3b84.png" group-title="⭕ CHILE ",CL | TV EDUCA HD 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1241
+#EXTINF:-1 tvg-id="" tvg-name="CL | PIGUINO TV HD" tvg-logo="http://th4.online:2095/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="⭕ CHILE ",CL | PIGUINO TV HD
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1243
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV CHILE INTERNACIONAL" tvg-logo="http://th4.online:2095/images/d3d9446802a44259755d38e6d163e820.png" group-title="⭕ CHILE ",CL | TV CHILE INTERNACIONAL
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/141600
+#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL PATAGONIA HD " tvg-logo="http://th4.online:2095/images/3c59dc048e8850243be8079a5c74d079.png" group-title="⭕ CHILE ",CL | CANAL PATAGONIA HD 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/1239
+#EXTINF:-1 tvg-id="" tvg-name="CL | VIA X" tvg-logo="http://th4.online:2095/images/aab3238922bcc25a6f606eb525ffdc56.png" group-title="⭕ CHILE ",CL | VIA X
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/133677
+#EXTINF:-1 tvg-id="" tvg-name="CL | UCV" tvg-logo="http://th4.online:2095/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="⭕ CHILE ",CL | UCV
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/138772
+#EXTINF:-1 tvg-id="" tvg-name="ZONA LATINA " tvg-logo="http://th4.online:2095/images/c20ad4d76fe97759aa27a0c99bff6710.png" group-title="⭕ CHILE ",ZONA LATINA 
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/138773
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="http://th4.online:2095/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="⭕ CHILE ",TVN 3
+http://th4.online:2095/RESTREAMIOTV84/FLEXTVRESTRE/152783
