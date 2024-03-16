@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+    <channel id="1">
+        <name>Canal de Prueba</name>
+        <programmes>
+            <programme start="2024-03-15T08:00:00" stop="2024-03-15T09:00:00">
+                <title>Programa 1</title>
+                <description>Descripción del programa 1</description>
+            </programme>
+            <programme start="2024-03-15T09:00:00" stop="2024-03-15T10:00:00">
+                <title>Programa 2</title>
+                <description>Descripción del programa 2</description>
+            </programme>
+            <programme start="2024-03-15T10:00:00" stop="2024-03-15T11:00:00">
+                <title>Programa 3</title>
+                <description>Descripción del programa 3</description>
+            </programme>
+            <!-- Agregar más programas según sea necesario -->
+        </programmes>
+    </channel>
+
+    <channel id="2">
+        <name>energeek</name>
+        <programmes>
+            <programme start="2024-03-15T08:30:00" stop="2024-03-15T09:30:00">
+                <title>Tecnología del Futuro</title>
+                <description>Explorando las últimas innovaciones tecnológicas.</description>
+            </programme>
+            <programme start="2024-03-15T09:30:00" stop="2024-03-15T10:30:00">
+                <title>Conversaciones Geek</title>
+                <description>Entrevistas con expertos en tecnología y ciencia.</description>
+            </programme>
+            <programme start="2024-03-15T10:30:00" stop="2024-03-15T11:30:00">
+                <title>Robótica Avanzada</title>
+                <description>Exploración en profundidad de los últimos avances en robótica.</description>
+            </programme>
+            <!-- Agregar más programas según sea necesario -->
+        </programmes>
+    </channel>
+
+    <channel id="3">
+    <name>PandaMax</name>
+    <schedule>
+        <day name="Lunes">
+            <programme start="15:00">Pokémon</programme>
+            <programme start="15:30">Super Campeones J</programme>
+            <programme start="16:00">Escuela de Detectives</programme>
+            <programme start="19:30">Espíritu de Lucha</programme>
+            <programme start="17:00">Yu Yu Hakusho</programme>
+            <programme start="17:30">GetBackers</programme>
+            <programme start="18:00">Y Avatar: La Leyenda de Aang</programme>
+            <programme start="18:30">Mushishi</programme>
+            <programme start="19:00">Clannad (subtitulado)</programme>
+            <programme start="19:30">Bakuman (subtitulado)</programme>
+            <programme start="20:00">Ashita no Joe (subtitulado)</programme>
+            <programme start="20:30">Initial D (subtitulado)</programme>
+            <programme start="21:00">Gungrave</programme>
+            <programme start="21:30">Cowboy Bebop</programme>
+            <programme start="22:00">City Hunter</programme>
+            <programme start="22:30">Lupin III</programme>
+            <programme start="23:00">Repetición</programme>
+        </day>
+        <day name="Martes">
+            <programme start="15:00">Pokémon</programme>
+            <programme start="15:30">Super Campeones J</programme>
+            <programme start="16:00">Escuela de Detectives</programme>
+            <programme start="19:30">Espíritu de Lucha</programme>
+            <programme start="17:00">Yu Yu Hakusho</programme>
+            <programme start="17:30">GetBackers</programme>
+            <programme start="18:00">Y Avatar: La Leyenda de Aang</programme>
+            <programme start="18:30">Mushishi</programme>
+            <programme start="19:00">Clannad (subtitulado)</programme>
+            <programme start="19:30">Bakuman (subtitulado)</programme>
+            <programme start="20:00">Ashita no Joe (subtitulado)</programme>
+            <programme start="20:30">Initial D (subtitulado)</programme>
+            <programme start="21:00">Gungrave</programme>
+            <programme start="21:30">Cowboy Bebop</programme>
+            <programme start="22:00">City Hunter</programme>
+            <programme start="22:30">Lupin III</programme>
+            <programme start="23:00">Repetición</programme>
+        </day>
+        <day name="Miercoles">
+            <programme start="15:00">Pokémon</programme>
+            <programme start="15:30">Super Campeones J</programme>
+            <programme start="16:00">Escuela de Detectives</programme>
+            <programme start="19:30">Espíritu de Lucha</programme>
+            <programme start="17:00">Yu Yu Hakusho</programme>
+            <programme start="17:30">GetBackers</programme>
+            <programme start="18:00">Y Avatar: La Leyenda de Aang</programme>
+            <programme start="18:30">Mushishi</programme>
+            <programme start="19:00">Clannad (subtitulado)</programme>
+            <programme start="19:30">Bakuman (subtitulado)</programme>
+            <programme start="20:00">Ashita no Joe (subtitulado)</programme>
+            <programme start="20:30">Initial D (subtitulado)</programme>
+            <programme start="21:00">Gungrave</programme>
+            <programme start="21:30">Cowboy Bebop</programme>
+            <programme start="22:00">City Hunter</programme>
+            <programme start="22:30">Lupin III</programme>
+            <programme start="23:00">Repetición</programme>
+        </day>
+        <day name="Jueves">
+            <programme start="15:00">Pokémon</programme>
+            <programme start="15:30">Super Campeones J</programme>
+            <programme start="16:00">Escuela de Detectives</programme>
+            <programme start="19:30">Espíritu de Lucha</programme>
+            <programme start="17:00">Yu Yu Hakusho</programme>
+            <programme start="17:30">GetBackers</programme>
+            <programme start="18:00">Y Avatar: La Leyenda de Aang</programme>
+            <programme start="18:30">Mushishi</programme>
+            <programme start="19:00">Clannad (subtitulado)</programme>
+            <programme start="19:30">Bakuman (subtitulado)</programme>
+            <programme start="20:00">Ashita no Joe (subtitulado)</programme>
+            <programme start="20:30">Initial D (subtitulado)</programme>
+            <programme start="21:00">Gungrave</programme>
+            <programme start="21:30">Cowboy Bebop</programme>
+            <programme start="22:00">City Hunter</programme>
+            <programme start="22:30">Lupin III</programme>
+            <programme start="23:00">Repetición</programme>
+        </day>
+        <day name="Viernes">
+            <programme start="15:00">Pokémon</programme>
+            <programme start="15:30">Super Campeones J</programme>
+            <programme start="16:00">Escuela de Detectives</programme>
+            <programme start="19:30">Espíritu de Lucha</programme>
+            <programme start="17:00">Yu Yu Hakusho</programme>
+            <programme start="17:30">GetBackers</programme>
+            <programme start="18:00">Y Avatar: La Leyenda de Aang</programme>
+            <programme start="18:30">Mushishi</programme>
+            <programme start="19:00">Clannad (subtitulado)</programme>
+            <programme start="19:30">Bakuman (subtitulado)</programme>
+            <programme start="20:00">Ashita no Joe (subtitulado)</programme>
+            <programme start="20:30">Initial D (subtitulado)</programme>
+            <programme start="21:00">Gungrave</programme>
+            <programme start="21:30">Cowboy Bebop</programme>
+            <programme start="22:00">City Hunter</programme>
+            <programme start="22:30">Lupin III</programme>
+            <programme start="23:00">Repetición</programme>
+        </day>
+        <day name="Sabado">
+            <programme start="15:00">Spy x Family</programme>
+            <programme start="15:30">Welcome to Demon School Iruma-kun</programme>
+            <programme start="16:00">Yamada-kun and the Seven Witches</programme>
+            <programme start="19:30">Miss Kobayashi-san Maid Dragon</programme>
+            <programme start="17:00">Bocchi the rock! (subtitulado)</programme>
+            <programme start="17:30">Zero no Tsukaima (subtitulado)</programme>
+            <programme start="18:00">Hoshi no Samidare (subtitulado)</programme>
+            <programme start="18:30">Kuzu no Honkai (subtitulado)</programme>
+            <programme start="19:00">PandaFilms</programme>
+            <programme start="19:30">PandaFilms</programme>
+            <programme start="20:00">PandaFilms</programme>
+            <programme start="20:30">PandaFilms</programme>
+            <programme start="21:00">Vinland Saga</programme>
+            <programme start="21:30">Cyberpunk Edgerunners</programme>
+            <programme start="22:00">Pluto</programme>
+            <programme start="22:30">Pluto</programme>
+            <programme start="23:00">Pluto</programme>
+        </day>
+        <day name="Sabado">
+            <programme start="15:00">Spy x Family</programme>
+            <programme start="15:30">Welcome to Demon School Iruma-kun</programme>
+            <programme start="16:00">Yamada-kun and the Seven Witches</programme>
+            <programme start="19:30">Miss Kobayashi-san Maid Dragon</programme>
+            <programme start="17:00">Bocchi the rock! (subtitulado)</programme>
+            <programme start="17:30">Zero no Tsukaima (subtitulado)</programme>
+            <programme start="18:00">Hoshi no Samidare (subtitulado)</programme>
+            <programme start="18:30">Kuzu no Honkai (subtitulado)</programme>
+            <programme start="19:00">PandaFilms</programme>
+            <programme start="19:30">PandaFilms</programme>
+            <programme start="20:00">PandaFilms</programme>
+            <programme start="20:30">PandaFilms</programme>
+            <programme start="21:00">Vinland Saga</programme>
+            <programme start="21:30">Cyberpunk Edgerunners</programme>
+            <programme start="22:00">Pluto</programme>
+            <programme start="22:30">Pluto</programme>
+            <programme start="23:00">Pluto</programme>
+        </day>
+        <!-- Repetir para el resto de los días de la semana -->
+    </schedule>
+</channel>
+</channels>
